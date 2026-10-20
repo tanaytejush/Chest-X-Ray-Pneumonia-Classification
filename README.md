@@ -36,3 +36,8 @@ Python, NumPy, pandas, matplotlib, Jupyter
 ## Disclaimer
 
 This is an educational project. It is not a medical device and must not be used for diagnosis.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
